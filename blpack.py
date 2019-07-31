@@ -4,8 +4,8 @@ Blog: blog.sailark.com
 Date: 2019/7/31
 Description: A downloader for blpack.com to download documents on wenku.baidu.com easily
 Usage:
-python blpack.py billing
-python blpack.py [url] [dest]
+python blpack.py balance
+python blpack.py [url] [directory]
 """
 
 import urllib.request as request
